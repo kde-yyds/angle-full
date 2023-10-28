@@ -1,0 +1,4 @@
+{
+  "subdir": "tools/skia_goldctl/linux",
+  "package_name": "skia/tools/goldctl/linux-amd64"
+}
